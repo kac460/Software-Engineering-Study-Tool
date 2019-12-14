@@ -1,0 +1,76 @@
+
+Reducing the development cost is one of the advantages of using a customized software product. 
+
+ ------
+A Use Case diagram is usually used to show the structure of the system. 
+
+ ------
+The following statement is a non-functional requirement for security control: "The system shall only allow registered customers to browse their order history." 
+
+ ------
+If you don't validate the requirements with the customers, it may cost up to 100 times more just to fix the error after the delivery. 
+
+ ------
+Software design and implementation focus only on the problem domain. 
+
+ ------
+Throwaway prototypes are usually developed at the system design phase. 
+
+ ------
+Non-functional requirements are the services the software system should provide. 
+
+ ------
+The A in the SMART is the abbreviation for Attainable, an attribute for evaluating requirement statements. 
+
+ ------
+Domain requirements are the constraints on the software system from the solution domain. 
+
+ ------
+In Scrum, the Scrum Master is the one interfaces with the customers. 
+
+ ------
+Real-time embedded software usually requires more extensive validation and testing than web-based systems. 
+
+ ------
+The M in the SMART is the abbreviation for Measurable, an attribute for evaluating requirement statements. 
+
+ ------
+The fixed-length iterations in Scrum is called a phase. 
+
+ ------
+Software efficiency includes responsiveness, processing time and memory utilization. 
+
+ ------
+The first step in the requirement engineering process is conducting the requirement analysis. 
+
+ ------
+There are no universal software engineering methods or techniques suitable for all software systems. 
+
+ ------
+In Scrum, the sprint backlog items are estimated with story points. 
+
+ ------
+The T in the SMART is the abbreviation for Transformable, an attribute for evaluating requirement statements. 
+
+ ------
+The A in the SMART is the abbreviation for Accountable, an attribute for evaluating requirement statements. 
+
+ ------
+Requirement reviews is usually done manually with the customers and contractors. 
+
+ ------
+The T in the SMART is the abbreviation for Traceable, an attribute for evaluating requirement statements. 
+
+ ------
+Agile development methods aim to reduce the delivery time for working software systems. 
+
+ ------
+The best approach to develop a real-time embedded software system is go Agile. 
+
+ ------
+Software specification focuses only on the user's view of the system. 
+
+ ------
+Software Engineering is a discipline in which the focus is on the realization of computer solvable problems. 
+
+ ------

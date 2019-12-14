@@ -45,7 +45,30 @@ for html_file in html_files:
                 question_answer_map[question_processed] = false_string_for_output
             else:
                 question_answer_map[question_processed] = true_string_for_output
-for k in question_answer_map:
-    print(k)
-    print(question_answer_map[k])
-    print("-----")
+
+answer_key_file = open("answer key.txt", 'w')
+questions_without_answers_file = open("questions without answers.txt", 'w')
+questions_without_answers = ""
+questions_with_answers = ""
+for q in question_answer_map:
+    questions_with_answers += "\n{} \n{} \n\n------".format(q, question_answer_map[q])
+    questions_without_answers += "\n{} \n\n ------".format(q)
+answer_key_file.write(questions_with_answers)
+questions_without_answers_file.write(questions_without_answers)
+
+for question in question_answer_map:
+    print(question + "\n True/False? (enter EXIT to stop)")
+    input_answer = input()
+    if input_answer == "EXIT":
+        break
+    actual_answer = question_answer_map[question]
+    if 'T' in input_answer or 't' in input_answer:
+        if actual_answer == true_string_for_output:
+            print("Correct. Statement is {}".format(true_string_for_output))
+        else:
+            print("WRONG! STATEMENT IS {}".format(false_string_for_output))
+    else:
+        if actual_answer == false_string_for_output:
+            print("Correct. STATEMENT is {}".format(false_string_for_output))
+        else:
+            print("WRONG! STATEMENT IS {}".format(true_string_for_output))
