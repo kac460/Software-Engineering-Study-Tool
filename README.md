@@ -13,7 +13,7 @@ Paste into a .txt file. ***NAME THE FILE IN A WAY THAT IDENTIFIES IT: INCLUDE YO
 
 **If the attempt was the final attempt for that quiz**, then just go ahead and put it in the root directory of the project (also please test to make sure your addition doesn't break the program and then push; thank you!)
 
-**Otherwise**, due to differences in how previous attempts are displayed, you **MUST** manually enter a "`" just before each of your responses. 
+**Otherwise**, due to differences in how previous attempts are displayed, you **MUST** manually enter a ` just before each of your responses. 
 Then put it in the root directory of the project (also please test to make sure your addition doesn't break the program and then push; thank you!)
 
 Running the tool will now take into account the attempt you just added.
