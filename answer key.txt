@@ -171,3 +171,203 @@ UML is a diagram to show the architectural design of the software.
 TRUE 
 
 ------
+One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders. 
+TRUE 
+
+------
+Client/Server architecture can potentially save hardware cost. 
+TRUE 
+
+------
+"has", "is composed of" in part of speech identifies the generalization model component in a class diagram. 
+FALSE 
+
+------
+The manageability of a distributed system architecture is better than a centralized system architecture. 
+FALSE 
+
+------
+If performance is a critical requirement, the architecture should be designed to have fine-grain components, and the subsystems should constantly communicate with each other. 
+FALSE 
+
+------
+The last step of UI design process is interface evaluation. 
+TRUE 
+
+------
+Fault-tolerant system architecture should be used if maintainability is a critical requirement. 
+FALSE 
+
+------
+ATM (Auto Teller Machine) is a client/server architecture. 
+TRUE 
+
+------
+The repository architecture is a system model where the system is organized as a set of services. 
+FALSE 
+
+------
+Cohesion measures dependency among subsystems. 
+FALSE 
+
+------
+Use case diagram is normally used at both the analysis and design phase. 
+FALSE 
+
+------
+Localizing safety-related features improves performance. 
+FALSE 
+
+------
+The notation for generalization in a class diagram is a large empty arrow pointing from the superclass to the subclass. 
+FALSE 
+
+------
+Object communication is through message passing. 
+TRUE 
+
+------
+The layered pattern supports the incremental development of systems. 
+TRUE 
+
+------
+"has", "is composed of" in part of speech identifies the aggregation model component in a class diagram. 
+TRUE 
+
+------
+MVC pattern supports presentation of the same data in different ways. 
+TRUE 
+
+------
+The product of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. 
+TRUE 
+
+------
+"is a", "is kind of" in part of speech identifies the aggregation model component in a class diagram. 
+FALSE 
+
+------
+Architectural design is the critical link between design and requirements engineering. 
+TRUE 
+
+------
+Client/server architecture supports resource sharing. 
+TRUE 
+
+------
+There is no overlap between the processes of requirement engineering and architectural design. 
+FALSE 
+
+------
+Introducing redundant data improves availability but makes security more difficult. 
+TRUE 
+
+------
+In OO design, control objects coordinate boundary objects and entity objects. 
+TRUE 
+
+------
+Sequence diagram represents the interactions among a set of objects during a single use case. 
+TRUE 
+
+------
+"Keeping the software current with the operating systems" is a corrective maintenance task. 
+FALSE 
+
+------
+Software testing involves running an implementation of the software with test data. 
+TRUE 
+
+------
+One of the disadvantages of having the developers maintaining the software is the new system development often gets a higher priority than maintenance. 
+TRUE 
+
+------
+Rerunning an existing set of tests is called regression testing. 
+TRUE 
+
+------
+Software engineers shall act in a manner that is in the best interests of their client and employer, consistent with the public interest. 
+TRUE 
+
+------
+White-box testing requires test oracle. 
+FALSE 
+
+------
+An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
+TRUE 
+
+------
+Unless additional work is done to explicitly reduce the complexity of a system, the system will become increasingly ore complex due to maintenance-related changes. 
+TRUE 
+
+------
+We need to rerun all tests after each defect repair. 
+FALSE 
+
+------
+One of the advantages of having a separate maintainers is there will be better documentations. 
+TRUE 
+
+------
+In bottom-up integration testing, you don't need stubs. 
+TRUE 
+
+------
+Requirement analysis document is required in order to perform system testing. 
+TRUE 
+
+------
+Ideally, regression testing should re-run all test cases, but it's impractical because of the cost. 
+TRUE 
+
+------
+Software engineers shall act consistently with the public interest. 
+TRUE 
+
+------
+In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
+FALSE 
+
+------
+Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
+TRUE 
+
+------
+You can only use a dynamic approach to test a system when a prototype or an executable version of the program is available. 
+TRUE 
+
+------
+Debugging is a process to establish the existence of defects in a software system. 
+FALSE 
+
+------
+White-box testing is structural testing. 
+TRUE 
+
+------
+Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
+TRUE 
+
+------
+Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
+TRUE 
+
+------
+Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
+TRUE 
+
+------
+Verification and Validation starts with requirement reviews and continues through design reviews and code inspections to product testing. 
+TRUE 
+
+------
+The quality attribute Maintainability is the ease with which maintenance can be carried out. 
+TRUE 
+
+------
+In bottom-up integration testing, you don't need drivers. 
+FALSE 
+
+------

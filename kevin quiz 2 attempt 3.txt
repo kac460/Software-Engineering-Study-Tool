@@ -1,0 +1,252 @@
+
+Skip To Content
+Dashboard
+KEVIN CADAVILLO
+Account
+Dashboard
+Courses
+Groups
+Calendar
+25 unread messages.25
+Inbox
+Search
+Help
+
+01:198:431:01 SOFTWARE ENGINEERINGQuizzesOnline Quiz #2 - open Nov. 11History
+Fall 2019
+Home
+Announcements
+Assignments
+Discussions
+Grades
+People
+Pages
+Files
+Syllabus
+Quizzes
+Modules
+Conferences
+Collaborations
+Chat
+Proctortrack
+Google Drive
+Rutgers Libraries
+Search
+Student Instructional Rating Survey
+Media Gallery
+My Media
+Online Quiz #2 - open Nov. 11 Results for KEVIN CADAVILLO
+Score for this attempt: 9.2 out of 10
+Submitted Nov 17 at 11:33pm
+This attempt took 7 minutes.
+
+Question 1
+0.4 / 0.4 pts
+One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders.
+
+Correct!
+  True
+  False
+
+Question 2
+0.4 / 0.4 pts
+Client/Server architecture can potentially save hardware cost.
+
+Correct!
+  True
+  False
+
+Question 3
+0.4 / 0.4 pts
+"has", "is composed of" in part of speech identifies the generalization model component in a class diagram.
+
+  True
+Correct!
+  False
+
+Question 4
+0.4 / 0.4 pts
+The manageability of a distributed system architecture is better than a centralized system architecture.
+
+  True
+Correct!
+  False
+
+Question 5
+0.4 / 0.4 pts
+If performance is a critical requirement, the architecture should be designed to have fine-grain components, and the subsystems should constantly communicate with each other.
+
+  True
+Correct!
+  False
+
+Question 6
+0.4 / 0.4 pts
+The last step of UI design process is interface evaluation.
+
+Correct!
+  True
+  False
+
+Question 7
+0.4 / 0.4 pts
+Fault-tolerant system architecture should be used if maintainability is a critical requirement.
+
+  True
+Correct!
+  False
+
+Question 8
+0.4 / 0.4 pts
+ATM (Auto Teller Machine) is a client/server architecture.
+
+Correct!
+  True
+  False
+
+Question 9
+0.4 / 0.4 pts
+The repository architecture is a system model where the system is organized as a set of services.
+
+  True
+Correct!
+  False
+
+Question 10
+0.4 / 0.4 pts
+Cohesion measures dependency among subsystems.
+
+  True
+Correct!
+  False
+
+Question 11
+0.4 / 0.4 pts
+Use case diagram is normally used at both the analysis and design phase.
+
+  True
+Correct!
+  False
+
+Question 12
+0.4 / 0.4 pts
+Localizing safety-related features improves performance.
+
+  True
+Correct!
+  False
+
+Question 13
+0.4 / 0.4 pts
+The notation for generalization in a class diagram is a large empty arrow pointing from the superclass to the subclass.
+
+  True
+Correct!
+  False
+
+Question 14
+0.4 / 0.4 pts
+Object communication is through message passing.
+
+Correct!
+  True
+  False
+
+Question 15
+0.4 / 0.4 pts
+The layered pattern supports the incremental development of systems.
+
+Correct!
+  True
+  False
+
+Question 16
+0.4 / 0.4 pts
+"has", "is composed of" in part of speech identifies the aggregation model component in a class diagram.
+
+Correct!
+  True
+  False
+
+Question 17
+0.4 / 0.4 pts
+MVC pattern supports presentation of the same data in different ways.
+
+Correct!
+  True
+  False
+
+Question 18
+0.4 / 0.4 pts
+The product of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components.
+
+Correct!
+  True
+  False
+
+Question 19
+0.4 / 0.4 pts
+"is a", "is kind of" in part of speech identifies the aggregation model component in a class diagram.
+
+  True
+Correct!
+  False
+
+Question 20
+0 / 0.4 pts
+Architectural design is the critical link between design and requirements engineering.
+
+Correct Answer
+  True
+You Answered
+  False
+
+Question 21
+0 / 0.4 pts
+Client/server architecture supports resource sharing.
+
+Correct Answer
+  True
+You Answered
+  False
+
+Question 22
+0.4 / 0.4 pts
+There is no overlap between the processes of requirement engineering and architectural design.
+
+  True
+Correct!
+  False
+
+Question 23
+0.4 / 0.4 pts
+Introducing redundant data improves availability but makes security more difficult.
+
+Correct!
+  True
+  False
+
+Question 24
+0.4 / 0.4 pts
+In OO design, control objects coordinate boundary objects and entity objects.
+
+Correct!
+  True
+  False
+
+Question 25
+0.4 / 0.4 pts
+Sequence diagram represents the interactions among a set of objects during a single use case.
+
+Correct!
+  True
+  False
+Quiz Score: 9.2 out of 10
+Quiz Submissions
+Attempt 1: 9.6
+Attempt 2: 8.4
+Attempt 3: 9.2
+KEVIN CADAVILLO has no attempts left
+ Back to Quiz
+Search
+Search...
