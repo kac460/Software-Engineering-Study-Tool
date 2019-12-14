@@ -99,3 +99,75 @@ Software Engineering is a discipline in which the focus is on the realization of
 FALSE 
 
 ------
+Functional requirements are usually the statements of the quality attributes that the software must meet. 
+FALSE 
+
+------
+The following requirement statement is SMART. "The report will be available soon after month-end close." 
+FALSE 
+
+------
+Use cases are a scenario-based technique for requirement elicitation. 
+TRUE 
+
+------
+A throw-away prototype is an early working version of the deliverable. 
+FALSE 
+
+------
+Incremental development is most appropriate for small and medium-sized software project. 
+TRUE 
+
+------
+Although there are multiple solutions to a software project, the solutions might not be practical since we always have certain degree of constraints in developing software, such as budget and time. 
+TRUE 
+
+------
+To shorten the delivery times for large and complex system, compromising system quality is acceptable. 
+FALSE 
+
+------
+Air traffic control systems are good examples of customized software products. 
+FALSE 
+
+------
+It is possible that CASE tools have extensive automation and take over creative design from the engineers. 
+FALSE 
+
+------
+There is no single 'ideal' approach to software engineering, therefore, we don't need a diversity of approaches to software development. 
+FALSE 
+
+------
+In incremental/iterative software development, an early increment of the system normally delivers low-priority functionality. 
+FALSE 
+
+------
+In a fast-paced business environment, the problem of using the waterfall model to develop the software is that the system design or implementation has to be reworked once the requirements change. 
+TRUE 
+
+------
+The notion of "Software Engineering" was first proposed in 1968 at a conference held to discuss the "software crisis". 
+TRUE 
+
+------
+System requirements should describe the system services in detail. 
+TRUE 
+
+------
+The following non-functional requirement is measurable: "The system shall process 2 transactions per second." 
+TRUE 
+
+------
+SMART is a specific set of attributes that every requirement statement can be measured against. 
+TRUE 
+
+------
+Requirement validation is concerned with demonstrating that the requirements define the system that the customers really want. 
+TRUE 
+
+------
+UML is a diagram to show the architectural design of the software. 
+TRUE 
+
+------

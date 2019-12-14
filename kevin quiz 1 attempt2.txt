@@ -1,0 +1,225 @@
+
+Skip To Content
+Dashboard
+KEVIN CADAVILLO
+Account
+Dashboard
+Courses
+Groups
+Calendar
+25 unread messages.25
+Inbox
+Search
+Help
+
+01:198:431:01 SOFTWARE ENGINEERINGQuizzesOnline Quiz #1 - open Oct. 7History
+Fall 2019
+Home
+Announcements
+Assignments
+Discussions
+Grades
+People
+Pages
+Files
+Syllabus
+Quizzes
+Modules
+Conferences
+Collaborations
+Chat
+Proctortrack
+Google Drive
+Rutgers Libraries
+Search
+Student Instructional Rating Survey
+Media Gallery
+My Media
+Online Quiz #1 - open Oct. 7 Results for KEVIN CADAVILLO
+Score for this attempt: 8.8 out of 10
+Submitted Oct 8 at 6:04pm
+This attempt took 12 minutes.
+
+Question 1
+0.4 / 0.4 pts
+Functional requirements are usually the statements of the quality attributes that the software must meet.
+
+  True
+  `False
+
+Question 2
+0.4 / 0.4 pts
+The following requirement statement is SMART. "The report will be available soon after month-end close."
+
+  True
+  `False
+
+Question 3
+0.4 / 0.4 pts
+Domain requirements are the constraints on the software system from the solution domain.
+
+  True
+  `False
+
+Question 4
+0.4 / 0.4 pts
+Use cases are a scenario-based technique for requirement elicitation.
+
+  `True
+  False
+
+Question 5
+0.4 / 0.4 pts
+Software design and implementation focus only on the problem domain.
+
+  True
+  `False
+
+Question 6
+0.4 / 0.4 pts
+If you don't validate the requirements with the customers, it may cost up to 100 times more just to fix the error after the delivery.
+
+  `True
+  False
+
+Question 7
+0.4 / 0.4 pts
+The fixed-length iterations in Scrum is called a phase.
+
+  True
+  `False
+
+Question 8
+0.4 / 0.4 pts
+The T in the SMART is the abbreviation for Traceable, an attribute for evaluating requirement statements.
+
+  `True
+  False
+
+Question 9
+0.4 / 0.4 pts
+There are no universal software engineering methods or techniques suitable for all software systems.
+
+  `True
+  False
+
+IncorrectQuestion 10
+0 / 0.4 pts
+A throw-away prototype is an early working version of the deliverable.
+
+  `True
+  False
+
+Question 11
+0.4 / 0.4 pts
+Incremental development is most appropriate for small and medium-sized software project.
+
+  `True
+  False
+
+Question 12
+0.4 / 0.4 pts
+Although there are multiple solutions to a software project, the solutions might not be practical since we always have certain degree of constraints in developing software, such as budget and time.
+
+  `True
+  False
+
+Question 13
+0.4 / 0.4 pts
+Throwaway prototypes are usually developed at the system design phase.
+
+  True
+  `False
+
+Question 14
+0.4 / 0.4 pts
+To shorten the delivery times for large and complex system, compromising system quality is acceptable.
+
+  True
+  `False
+
+Question 15
+0.4 / 0.4 pts
+Air traffic control systems are good examples of customized software products.
+
+  True
+  `False
+
+IncorrectQuestion 16
+0 / 0.4 pts
+It is possible that CASE tools have extensive automation and take over creative design from the engineers.
+
+  `True
+  False
+
+Question 17
+0.4 / 0.4 pts
+There is no single 'ideal' approach to software engineering, therefore, we don't need a diversity of approaches to software development.
+
+  True
+  `False
+
+Question 18
+0.4 / 0.4 pts
+In incremental/iterative software development, an early increment of the system normally delivers low-priority functionality.
+
+  True
+  `False
+
+Question 19
+0.4 / 0.4 pts
+In a fast-paced business environment, the problem of using the waterfall model to develop the software is that the system design or implementation has to be reworked once the requirements change.
+
+  `True
+  False
+
+Question 20
+0.4 / 0.4 pts
+The notion of "Software Engineering" was first proposed in 1968 at a conference held to discuss the "software crisis".
+
+  `True
+  False
+
+Question 21
+0.4 / 0.4 pts
+System requirements should describe the system services in detail.
+
+  `True
+  False
+
+Question 22
+0.4 / 0.4 pts
+The following non-functional requirement is measurable: "The system shall process 2 transactions per second."
+
+  `True
+  False
+
+Question 23
+0.4 / 0.4 pts
+SMART is a specific set of attributes that every requirement statement can be measured against.
+
+  `True
+  False
+
+Question 24
+0.4 / 0.4 pts
+Requirement validation is concerned with demonstrating that the requirements define the system that the customers really want.
+
+  `True
+  False
+
+IncorrectQuestion 25
+0 / 0.4 pts
+UML is a diagram to show the architectural design of the software.
+
+  True
+  `False
+Quiz Score: 8.8 out of 10
+Quiz Submissions
+Attempt 1: 9.6
+Attempt 2: 8.8
+Attempt 3: 8.4
+KEVIN CADAVILLO has no attempts left
+ Back to Quiz
+Search
+Search...

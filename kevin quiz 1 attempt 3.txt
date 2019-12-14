@@ -1,0 +1,254 @@
+
+Skip To Content
+Dashboard
+KEVIN CADAVILLO
+Account
+Dashboard
+Courses
+Groups
+Calendar
+25 unread messages.25
+Inbox
+Search
+Help
+
+01:198:431:01 SOFTWARE ENGINEERINGQuizzesOnline Quiz #1 - open Oct. 7History
+Fall 2019
+Home
+Announcements
+Assignments
+Discussions
+Grades
+People
+Pages
+Files
+Syllabus
+Quizzes
+Modules
+Conferences
+Collaborations
+Chat
+Proctortrack
+Google Drive
+Rutgers Libraries
+Search
+Student Instructional Rating Survey
+Media Gallery
+My Media
+Online Quiz #1 - open Oct. 7 Results for KEVIN CADAVILLO
+Score for this attempt: 8.4 out of 10
+Submitted Oct 9 at 2:40pm
+This attempt took 15 minutes.
+
+Question 1
+0 / 0.4 pts
+Reducing the development cost is one of the advantages of using a customized software product.
+
+Correct Answer
+  True
+You Answered
+  False
+
+Question 2
+0.4 / 0.4 pts
+ A Use Case diagram is usually used to show the structure of the system.
+
+  True
+Correct!
+  False
+
+Question 3
+0.4 / 0.4 pts
+The following statement is a non-functional requirement for security control: "The system shall only allow registered customers to browse their order history."
+
+Correct!
+  True
+  False
+
+Question 4
+0.4 / 0.4 pts
+If you don't validate the requirements with the customers, it may cost up to 100 times more just to fix the error after the delivery.
+
+Correct!
+  True
+  False
+
+Question 5
+0.4 / 0.4 pts
+Software design and implementation focus only on the problem domain.
+
+  True
+Correct!
+  False
+
+Question 6
+0.4 / 0.4 pts
+Throwaway prototypes are usually developed at the system design phase.
+
+  True
+Correct!
+  False
+
+Question 7
+0.4 / 0.4 pts
+Non-functional requirements are the services the software system should provide.
+
+  True
+Correct!
+  False
+
+Question 8
+0.4 / 0.4 pts
+The A in the SMART is the abbreviation for Attainable, an attribute for evaluating requirement statements.
+
+Correct!
+  True
+  False
+
+Question 9
+0.4 / 0.4 pts
+Domain requirements are the constraints on the software system from the solution domain.
+
+  True
+Correct!
+  False
+
+Question 10
+0.4 / 0.4 pts
+In Scrum, the Scrum Master is the one interfaces with the customers.
+
+  True
+Correct!
+  False
+
+Question 11
+0 / 0.4 pts
+Real-time embedded software usually requires more extensive validation and testing than web-based systems.
+
+Correct Answer
+  True
+You Answered
+  False
+
+Question 12
+0.4 / 0.4 pts
+The M in the SMART is the abbreviation for Measurable, an attribute for evaluating requirement statements.
+
+Correct!
+  True
+  False
+
+Question 13
+0.4 / 0.4 pts
+The fixed-length iterations in Scrum is called a phase.
+
+  True
+Correct!
+  False
+
+Question 14
+0.4 / 0.4 pts
+Software efficiency includes responsiveness, processing time and memory utilization.
+
+Correct!
+  True
+  False
+
+Question 15
+0.4 / 0.4 pts
+The first step in the requirement engineering process is conducting the requirement analysis.
+
+  True
+Correct!
+  False
+
+Question 16
+0.4 / 0.4 pts
+There are no universal software engineering methods or techniques suitable for all software systems.
+
+Correct!
+  True
+  False
+
+Question 17
+0 / 0.4 pts
+In Scrum, the sprint backlog items are estimated with story points.
+
+You Answered
+  True
+Correct Answer
+  False
+
+Question 18
+0.4 / 0.4 pts
+The T in the SMART is the abbreviation for Transformable, an attribute for evaluating requirement statements.
+
+  True
+Correct!
+  False
+
+Question 19
+0.4 / 0.4 pts
+The A in the SMART is the abbreviation for Accountable, an attribute for evaluating requirement statements.
+
+  True
+Correct!
+  False
+
+Question 20
+0.4 / 0.4 pts
+Requirement reviews is usually done manually with the customers and contractors.
+
+Correct!
+  True
+  False
+
+Question 21
+0.4 / 0.4 pts
+The T in the SMART is the abbreviation for Traceable, an attribute for evaluating requirement statements.
+
+Correct!
+  True
+  False
+
+Question 22
+0.4 / 0.4 pts
+Agile development methods aim to reduce the delivery time for working software systems.
+
+Correct!
+  True
+  False
+
+Question 23
+0.4 / 0.4 pts
+The best approach to develop a real-time embedded software system is go Agile.
+
+  True
+Correct!
+  False
+
+Question 24
+0 / 0.4 pts
+Software specification focuses only on the user's view of the system.
+
+Correct Answer
+  True
+You Answered
+  False
+
+Question 25
+0.4 / 0.4 pts
+Software Engineering is a discipline in which the focus is on the realization of computer solvable problems.
+
+  True
+Correct!
+  False
+Quiz Score: 8.4 out of 10
+Quiz Submissions
+Attempt 1: 9.6
+Attempt 2: 8.8
+Attempt 3: 8.4
+KEVIN CADAVILLO has no attempts left
+ Back to Quiz
+Search
+Search...
