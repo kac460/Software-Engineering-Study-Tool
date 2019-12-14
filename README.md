@@ -2,7 +2,7 @@
 Takes .txts of quiz attempts and creates a study tool akin to flashcards with them.
 
 ## To use this tool
-Clone the project to your computer. Go that directory in the terminal and run `python study-tool.py` (or you can probably just run this somewhere else)
+Clone the project to your computer. Go that directory in the terminal and run `python study-tool.py`
 
 ## To add your attempt of a quiz to this:
 Click on a particular attempt.
