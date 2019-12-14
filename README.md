@@ -9,11 +9,11 @@ Click on a particular attempt.
 
 Select All.
 
-Paste into a .txt file. **NAME THE FILE IN A WAY THAT IDENTIFIES IT: INCLUDE YOUR NAME, THE QUIZ #, AND THE ATTEMPT #.** Example: "kevin quiz 1 attempt 2.txt"
+Paste into a .txt file. ***NAME THE FILE IN A WAY THAT IDENTIFIES IT: INCLUDE YOUR NAME, THE QUIZ #, AND THE ATTEMPT #.*** Example: "kevin quiz 1 attempt 2.txt"
 
-If the attempt was the final attempt for that quiz, then just go ahead and put it in the root directory of the project (also please push; thank you!)
+**If the attempt was the final attempt for that quiz**, then just go ahead and put it in the root directory of the project (also please push; thank you!)
 
-Otherwise, due to differences in how previous attempts are displayed, you MUST manually enter a "`" just before each of your responses. 
+**Otherwise**, due to differences in how previous attempts are displayed, you **MUST** manually enter a "`" just before each of your responses. 
 Then put it in the root directory of the project (also please push; thank you!)
 
 Running the tool will now take into account the attempt you just added.
