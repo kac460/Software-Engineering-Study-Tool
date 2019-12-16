@@ -68,9 +68,11 @@ answer_key_file = open("answer key.txt", 'w')
 questions_without_answers_file = open("questions without answers.txt", 'w')
 questions_without_answers = ""
 questions_with_answers = ""
+num = 1
 for q in question_answer_map:
-    questions_with_answers += "\n{} \n{} \n\n------".format(q, question_answer_map[q])
-    questions_without_answers += "\n{} \n\n ------".format(q)
+    questions_with_answers += "\n{})  {} \n{} \n\n------".format(num, q, question_answer_map[q])
+    questions_without_answers += "\n{})  {} \n\n ------".format(num, q)
+    num += 1
 answer_key_file.write(questions_with_answers)
 questions_without_answers_file.write(questions_without_answers)
 

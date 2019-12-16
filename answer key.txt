@@ -1,497 +1,497 @@
 
-Reducing the development cost is one of the advantages of using a customized software product. 
+1)  Reducing the development cost is one of the advantages of using a customized software product. 
 TRUE 
 
 ------
-A Use Case diagram is usually used to show the structure of the system. 
+2)  A Use Case diagram is usually used to show the structure of the system. 
 FALSE 
 
 ------
-The following statement is a non-functional requirement for security control: "The system shall only allow registered customers to browse their order history." 
+3)  The following statement is a non-functional requirement for security control: "The system shall only allow registered customers to browse their order history." 
 TRUE 
 
 ------
-If you don't validate the requirements with the customers, it may cost up to 100 times more just to fix the error after the delivery. 
+4)  If you don't validate the requirements with the customers, it may cost up to 100 times more just to fix the error after the delivery. 
 TRUE 
 
 ------
-Software design and implementation focus only on the problem domain. 
+5)  Software design and implementation focus only on the problem domain. 
 FALSE 
 
 ------
-Throwaway prototypes are usually developed at the system design phase. 
+6)  Throwaway prototypes are usually developed at the system design phase. 
 FALSE 
 
 ------
-Non-functional requirements are the services the software system should provide. 
+7)  Non-functional requirements are the services the software system should provide. 
 FALSE 
 
 ------
-The A in the SMART is the abbreviation for Attainable, an attribute for evaluating requirement statements. 
+8)  The A in the SMART is the abbreviation for Attainable, an attribute for evaluating requirement statements. 
 TRUE 
 
 ------
-Domain requirements are the constraints on the software system from the solution domain. 
+9)  Domain requirements are the constraints on the software system from the solution domain. 
 FALSE 
 
 ------
-In Scrum, the Scrum Master is the one interfaces with the customers. 
+10)  In Scrum, the Scrum Master is the one interfaces with the customers. 
 FALSE 
 
 ------
-Real-time embedded software usually requires more extensive validation and testing than web-based systems. 
+11)  Real-time embedded software usually requires more extensive validation and testing than web-based systems. 
 TRUE 
 
 ------
-The M in the SMART is the abbreviation for Measurable, an attribute for evaluating requirement statements. 
+12)  The M in the SMART is the abbreviation for Measurable, an attribute for evaluating requirement statements. 
 TRUE 
 
 ------
-The fixed-length iterations in Scrum is called a phase. 
+13)  The fixed-length iterations in Scrum is called a phase. 
 FALSE 
 
 ------
-Software efficiency includes responsiveness, processing time and memory utilization. 
+14)  Software efficiency includes responsiveness, processing time and memory utilization. 
 TRUE 
 
 ------
-The first step in the requirement engineering process is conducting the requirement analysis. 
+15)  The first step in the requirement engineering process is conducting the requirement analysis. 
 FALSE 
 
 ------
-There are no universal software engineering methods or techniques suitable for all software systems. 
+16)  There are no universal software engineering methods or techniques suitable for all software systems. 
 TRUE 
 
 ------
-In Scrum, the sprint backlog items are estimated with story points. 
+17)  In Scrum, the sprint backlog items are estimated with story points. 
 FALSE 
 
 ------
-The T in the SMART is the abbreviation for Transformable, an attribute for evaluating requirement statements. 
+18)  The T in the SMART is the abbreviation for Transformable, an attribute for evaluating requirement statements. 
 FALSE 
 
 ------
-The A in the SMART is the abbreviation for Accountable, an attribute for evaluating requirement statements. 
+19)  The A in the SMART is the abbreviation for Accountable, an attribute for evaluating requirement statements. 
 FALSE 
 
 ------
-Requirement reviews is usually done manually with the customers and contractors. 
+20)  Requirement reviews is usually done manually with the customers and contractors. 
 TRUE 
 
 ------
-The T in the SMART is the abbreviation for Traceable, an attribute for evaluating requirement statements. 
+21)  The T in the SMART is the abbreviation for Traceable, an attribute for evaluating requirement statements. 
 TRUE 
 
 ------
-Agile development methods aim to reduce the delivery time for working software systems. 
+22)  Agile development methods aim to reduce the delivery time for working software systems. 
 TRUE 
 
 ------
-The best approach to develop a real-time embedded software system is go Agile. 
+23)  The best approach to develop a real-time embedded software system is go Agile. 
 FALSE 
 
 ------
-Software specification focuses only on the user's view of the system. 
+24)  Software specification focuses only on the user's view of the system. 
 TRUE 
 
 ------
-Software Engineering is a discipline in which the focus is on the realization of computer solvable problems. 
+25)  Software Engineering is a discipline in which the focus is on the realization of computer solvable problems. 
 FALSE 
 
 ------
-Functional requirements are usually the statements of the quality attributes that the software must meet. 
+26)  Functional requirements are usually the statements of the quality attributes that the software must meet. 
 FALSE 
 
 ------
-The following requirement statement is SMART. "The report will be available soon after month-end close." 
+27)  The following requirement statement is SMART. "The report will be available soon after month-end close." 
 FALSE 
 
 ------
-Use cases are a scenario-based technique for requirement elicitation. 
+28)  Use cases are a scenario-based technique for requirement elicitation. 
 TRUE 
 
 ------
-A throw-away prototype is an early working version of the deliverable. 
+29)  A throw-away prototype is an early working version of the deliverable. 
 FALSE 
 
 ------
-Incremental development is most appropriate for small and medium-sized software project. 
+30)  Incremental development is most appropriate for small and medium-sized software project. 
 TRUE 
 
 ------
-Although there are multiple solutions to a software project, the solutions might not be practical since we always have certain degree of constraints in developing software, such as budget and time. 
+31)  Although there are multiple solutions to a software project, the solutions might not be practical since we always have certain degree of constraints in developing software, such as budget and time. 
 TRUE 
 
 ------
-To shorten the delivery times for large and complex system, compromising system quality is acceptable. 
+32)  To shorten the delivery times for large and complex system, compromising system quality is acceptable. 
 FALSE 
 
 ------
-Air traffic control systems are good examples of customized software products. 
+33)  Air traffic control systems are good examples of customized software products. 
 FALSE 
 
 ------
-It is possible that CASE tools have extensive automation and take over creative design from the engineers. 
+34)  It is possible that CASE tools have extensive automation and take over creative design from the engineers. 
 FALSE 
 
 ------
-There is no single 'ideal' approach to software engineering, therefore, we don't need a diversity of approaches to software development. 
+35)  There is no single 'ideal' approach to software engineering, therefore, we don't need a diversity of approaches to software development. 
 FALSE 
 
 ------
-In incremental/iterative software development, an early increment of the system normally delivers low-priority functionality. 
+36)  In incremental/iterative software development, an early increment of the system normally delivers low-priority functionality. 
 FALSE 
 
 ------
-In a fast-paced business environment, the problem of using the waterfall model to develop the software is that the system design or implementation has to be reworked once the requirements change. 
+37)  In a fast-paced business environment, the problem of using the waterfall model to develop the software is that the system design or implementation has to be reworked once the requirements change. 
 TRUE 
 
 ------
-The notion of "Software Engineering" was first proposed in 1968 at a conference held to discuss the "software crisis". 
+38)  The notion of "Software Engineering" was first proposed in 1968 at a conference held to discuss the "software crisis". 
 TRUE 
 
 ------
-System requirements should describe the system services in detail. 
+39)  System requirements should describe the system services in detail. 
 TRUE 
 
 ------
-The following non-functional requirement is measurable: "The system shall process 2 transactions per second." 
+40)  The following non-functional requirement is measurable: "The system shall process 2 transactions per second." 
 TRUE 
 
 ------
-SMART is a specific set of attributes that every requirement statement can be measured against. 
+41)  SMART is a specific set of attributes that every requirement statement can be measured against. 
 TRUE 
 
 ------
-Requirement validation is concerned with demonstrating that the requirements define the system that the customers really want. 
+42)  Requirement validation is concerned with demonstrating that the requirements define the system that the customers really want. 
 TRUE 
 
 ------
-UML is a diagram to show the architectural design of the software. 
+43)  UML is a diagram to show the architectural design of the software. 
 TRUE 
 
 ------
-One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders. 
+44)  One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders. 
 TRUE 
 
 ------
-Client/Server architecture can potentially save hardware cost. 
+45)  Client/Server architecture can potentially save hardware cost. 
 TRUE 
 
 ------
-"has", "is composed of" in part of speech identifies the generalization model component in a class diagram. 
+46)  "has", "is composed of" in part of speech identifies the generalization model component in a class diagram. 
 FALSE 
 
 ------
-The manageability of a distributed system architecture is better than a centralized system architecture. 
+47)  The manageability of a distributed system architecture is better than a centralized system architecture. 
 FALSE 
 
 ------
-If performance is a critical requirement, the architecture should be designed to have fine-grain components, and the subsystems should constantly communicate with each other. 
+48)  If performance is a critical requirement, the architecture should be designed to have fine-grain components, and the subsystems should constantly communicate with each other. 
 FALSE 
 
 ------
-The last step of UI design process is interface evaluation. 
+49)  The last step of UI design process is interface evaluation. 
 TRUE 
 
 ------
-Fault-tolerant system architecture should be used if maintainability is a critical requirement. 
+50)  Fault-tolerant system architecture should be used if maintainability is a critical requirement. 
 FALSE 
 
 ------
-ATM (Auto Teller Machine) is a client/server architecture. 
+51)  ATM (Auto Teller Machine) is a client/server architecture. 
 TRUE 
 
 ------
-The repository architecture is a system model where the system is organized as a set of services. 
+52)  The repository architecture is a system model where the system is organized as a set of services. 
 FALSE 
 
 ------
-Cohesion measures dependency among subsystems. 
+53)  Cohesion measures dependency among subsystems. 
 FALSE 
 
 ------
-Use case diagram is normally used at both the analysis and design phase. 
+54)  Use case diagram is normally used at both the analysis and design phase. 
 FALSE 
 
 ------
-Localizing safety-related features improves performance. 
+55)  Localizing safety-related features improves performance. 
 FALSE 
 
 ------
-The notation for generalization in a class diagram is a large empty arrow pointing from the superclass to the subclass. 
+56)  The notation for generalization in a class diagram is a large empty arrow pointing from the superclass to the subclass. 
 FALSE 
 
 ------
-Object communication is through message passing. 
+57)  Object communication is through message passing. 
 TRUE 
 
 ------
-The layered pattern supports the incremental development of systems. 
+58)  The layered pattern supports the incremental development of systems. 
 TRUE 
 
 ------
-"has", "is composed of" in part of speech identifies the aggregation model component in a class diagram. 
+59)  "has", "is composed of" in part of speech identifies the aggregation model component in a class diagram. 
 TRUE 
 
 ------
-MVC pattern supports presentation of the same data in different ways. 
+60)  MVC pattern supports presentation of the same data in different ways. 
 TRUE 
 
 ------
-The product of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. 
+61)  The product of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. 
 TRUE 
 
 ------
-"is a", "is kind of" in part of speech identifies the aggregation model component in a class diagram. 
+62)  "is a", "is kind of" in part of speech identifies the aggregation model component in a class diagram. 
 FALSE 
 
 ------
-Architectural design is the critical link between design and requirements engineering. 
+63)  Architectural design is the critical link between design and requirements engineering. 
 TRUE 
 
 ------
-Client/server architecture supports resource sharing. 
+64)  Client/server architecture supports resource sharing. 
 TRUE 
 
 ------
-There is no overlap between the processes of requirement engineering and architectural design. 
+65)  There is no overlap between the processes of requirement engineering and architectural design. 
 FALSE 
 
 ------
-Introducing redundant data improves availability but makes security more difficult. 
+66)  Introducing redundant data improves availability but makes security more difficult. 
 TRUE 
 
 ------
-In OO design, control objects coordinate boundary objects and entity objects. 
+67)  In OO design, control objects coordinate boundary objects and entity objects. 
 TRUE 
 
 ------
-Sequence diagram represents the interactions among a set of objects during a single use case. 
+68)  Sequence diagram represents the interactions among a set of objects during a single use case. 
 TRUE 
 
 ------
-In both bottom-up and top-down integration testing, you usually have to develop additional code. 
+69)  In both bottom-up and top-down integration testing, you usually have to develop additional code. 
 TRUE 
 
 ------
-Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation. 
+70)  Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation. 
 FALSE 
 
 ------
-Regression testing is used to check that the changes made to a program have not introduced new faults. 
+71)  Regression testing is used to check that the changes made to a program have not introduced new faults. 
 TRUE 
 
 ------
-In black-box testing, only the requirement specification is required. 
+72)  In black-box testing, only the requirement specification is required. 
 FALSE 
 
 ------
-"Keeping the software current with the operating systems" is a corrective maintenance task. 
+73)  "Keeping the software current with the operating systems" is a corrective maintenance task. 
 FALSE 
 
 ------
-Software engineers should be aware of local laws governing  the use of intellectual property. 
+74)  Software engineers should be aware of local laws governing  the use of intellectual property. 
 TRUE 
 
 ------
-In top-down integration testing, you don't need drivers. 
+75)  In top-down integration testing, you don't need drivers. 
 TRUE 
 
 ------
-Ethical behavior is more than simply upholding the law. 
+76)  Ethical behavior is more than simply upholding the law. 
 TRUE 
 
 ------
-One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs. 
+77)  One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs. 
 TRUE 
 
 ------
-Software maintenance refers to the modification of a software product after delivery. 
+78)  Software maintenance refers to the modification of a software product after delivery. 
 TRUE 
 
 ------
-Software engineers shall be fair to and supportive of their colleagues. 
+79)  Software engineers shall be fair to and supportive of their colleagues. 
 TRUE 
 
 ------
-A maintenance task done on a software system to address problems of deteriorating structure is known as preventive change. 
+80)  A maintenance task done on a software system to address problems of deteriorating structure is known as preventive change. 
 TRUE 
 
 ------
-Design errors are classified as corrective change. 
+81)  Design errors are classified as corrective change. 
 TRUE 
 
 ------
-Software engineers shall maintain integrity and independence in their professional judgment. 
+82)  Software engineers shall maintain integrity and independence in their professional judgment. 
 TRUE 
 
 ------
-The quality attribute Maintainability is the ease with which maintenance can be carried out. 
+83)  The quality attribute Maintainability is the ease with which maintenance can be carried out. 
 TRUE 
 
 ------
-A major problem of integration testing is localizing errors. 
+84)  A major problem of integration testing is localizing errors. 
 TRUE 
 
 ------
-The Y2K problems should be classified as an enhancement of the software. 
+85)  The Y2K problems should be classified as an enhancement of the software. 
 FALSE 
 
 ------
-Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
+86)  Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
 TRUE 
 
 ------
-In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
+87)  In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
 FALSE 
 
 ------
-Software engineers shall act consistently with the public interest. 
+88)  Software engineers shall act consistently with the public interest. 
 TRUE 
 
 ------
-Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful. 
+89)  Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful. 
 TRUE 
 
 ------
-Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
+90)  Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
 TRUE 
 
 ------
-During software testing, errors can hide other errors. 
+91)  During software testing, errors can hide other errors. 
 TRUE 
 
 ------
-Acceptance testing is conducted by the developers. 
+92)  Acceptance testing is conducted by the developers. 
 FALSE 
 
 ------
-White-box testing is functional testing. 
+93)  White-box testing is functional testing. 
 FALSE 
 
 ------
-Black-box testing focuses on the path coverage. 
+94)  Black-box testing focuses on the path coverage. 
 FALSE 
 
 ------
-Real-time systems with complex non-functional constraints, more than half system development budget may be spent on V & V. 
+95)  Real-time systems with complex non-functional constraints, more than half system development budget may be spent on V & V. 
 TRUE 
 
 ------
-Traceability of test cases are connections between test cases and system requirements. 
+96)  Traceability of test cases are connections between test cases and system requirements. 
 TRUE 
 
 ------
-Software maintenance refers to the process of continuous change of the software throughout the software life cycle. 
+97)  Software maintenance refers to the process of continuous change of the software throughout the software life cycle. 
 FALSE 
 
 ------
-An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
+98)  An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
 TRUE 
 
 ------
-Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
+99)  Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
 TRUE 
 
 ------
-Code of ethics, if carefully written and properly promoted, can be powerful instruments in the drive for professionalism and in establishing safeguards for society. 
+100)  Code of ethics, if carefully written and properly promoted, can be powerful instruments in the drive for professionalism and in establishing safeguards for society. 
 TRUE 
 
 ------
-Software engineers shall ensure that their products and related modifications meet the highest professional standards possible. 
+101)  Software engineers shall ensure that their products and related modifications meet the highest professional standards possible. 
 TRUE 
 
 ------
-"Structural changes to improve the maintainability" is classified as an adaptive maintenance task. 
+102)  "Structural changes to improve the maintainability" is classified as an adaptive maintenance task. 
 FALSE 
 
 ------
-In bottom-up integration testing, you don't need drivers. 
+103)  In bottom-up integration testing, you don't need drivers. 
 FALSE 
 
 ------
-Requirement analysis document is required in order to perform system testing. 
+104)  Requirement analysis document is required in order to perform system testing. 
 TRUE 
 
 ------
-Software testing is a static technique of V & V by inspecting the source code. 
+105)  Software testing is a static technique of V & V by inspecting the source code. 
 FALSE 
 
 ------
-The maintenance tasks performed due to hardware or software innovations is classified as adaptive change. 
+106)  The maintenance tasks performed due to hardware or software innovations is classified as adaptive change. 
 TRUE 
 
 ------
-You should always use an incremental approach to system integration and testing. 
+107)  You should always use an incremental approach to system integration and testing. 
 TRUE 
 
 ------
-White-box testing focuses on I/O behaviors. 
+108)  White-box testing focuses on I/O behaviors. 
 FALSE 
 
 ------
-Software engineers should not misrepresent their level of competence. They should not knowingly accept work which is beyond their competence. 
+109)  Software engineers should not misrepresent their level of competence. They should not knowingly accept work which is beyond their competence. 
 TRUE 
 
 ------
-Software testing involves running an implementation of the software with test data. 
+110)  Software testing involves running an implementation of the software with test data. 
 TRUE 
 
 ------
-One of the disadvantages of having the developers maintaining the software is the new system development often gets a higher priority than maintenance. 
+111)  One of the disadvantages of having the developers maintaining the software is the new system development often gets a higher priority than maintenance. 
 TRUE 
 
 ------
-Rerunning an existing set of tests is called regression testing. 
+112)  Rerunning an existing set of tests is called regression testing. 
 TRUE 
 
 ------
-Software engineers shall act in a manner that is in the best interests of their client and employer, consistent with the public interest. 
+113)  Software engineers shall act in a manner that is in the best interests of their client and employer, consistent with the public interest. 
 TRUE 
 
 ------
-White-box testing requires test oracle. 
+114)  White-box testing requires test oracle. 
 FALSE 
 
 ------
-Unless additional work is done to explicitly reduce the complexity of a system, the system will become increasingly ore complex due to maintenance-related changes. 
+115)  Unless additional work is done to explicitly reduce the complexity of a system, the system will become increasingly ore complex due to maintenance-related changes. 
 TRUE 
 
 ------
-We need to rerun all tests after each defect repair. 
+116)  We need to rerun all tests after each defect repair. 
 FALSE 
 
 ------
-One of the advantages of having a separate maintainers is there will be better documentations. 
+117)  One of the advantages of having a separate maintainers is there will be better documentations. 
 TRUE 
 
 ------
-In bottom-up integration testing, you don't need stubs. 
+118)  In bottom-up integration testing, you don't need stubs. 
 TRUE 
 
 ------
-Ideally, regression testing should re-run all test cases, but it's impractical because of the cost. 
+119)  Ideally, regression testing should re-run all test cases, but it's impractical because of the cost. 
 TRUE 
 
 ------
-You can only use a dynamic approach to test a system when a prototype or an executable version of the program is available. 
+120)  You can only use a dynamic approach to test a system when a prototype or an executable version of the program is available. 
 TRUE 
 
 ------
-Debugging is a process to establish the existence of defects in a software system. 
+121)  Debugging is a process to establish the existence of defects in a software system. 
 FALSE 
 
 ------
-White-box testing is structural testing. 
+122)  White-box testing is structural testing. 
 TRUE 
 
 ------
-Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
+123)  Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
 TRUE 
 
 ------
-Verification and Validation starts with requirement reviews and continues through design reviews and code inspections to product testing. 
+124)  Verification and Validation starts with requirement reviews and continues through design reviews and code inspections to product testing. 
 TRUE 
 
 ------
