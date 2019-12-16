@@ -50,20 +50,16 @@ for text_file in txt_files:
             if "0 / 0.4" in question_split[i]:  # INCORRECT RESPONSE
                 you_answered_split = question_split[i].split("`")
                 if len(you_answered_split) <= 1:
-                    print("too small")
                     continue
                 incorrect_answer = first_is_false_or_true(you_answered_split[1])
                 if incorrect_answer == false_string_for_output:
-                    print("set")
                     question_answer_map[question] = true_string_for_output
                 else:
-                    print("set2")
                     question_answer_map[question] = false_string_for_output
             else:  # CORRECT RESPONSE
                 you_answered_split = question_split[i].split("`")
                 if len(you_answered_split) <= 1:
                     continue
-                print("set3")
                 correct_answer = first_is_false_or_true(you_answered_split[1])
                 question_answer_map[question] = correct_answer
 

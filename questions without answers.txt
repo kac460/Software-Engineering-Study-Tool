@@ -203,7 +203,127 @@ In OO design, control objects coordinate boundary objects and entity objects.
 Sequence diagram represents the interactions among a set of objects during a single use case. 
 
  ------
+In both bottom-up and top-down integration testing, you usually have to develop additional code. 
+
+ ------
+Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation. 
+
+ ------
+Regression testing is used to check that the changes made to a program have not introduced new faults. 
+
+ ------
+In black-box testing, only the requirement specification is required. 
+
+ ------
 "Keeping the software current with the operating systems" is a corrective maintenance task. 
+
+ ------
+Software engineers should be aware of local laws governing  the use of intellectual property. 
+
+ ------
+In top-down integration testing, you don't need drivers. 
+
+ ------
+Ethical behavior is more than simply upholding the law. 
+
+ ------
+One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs. 
+
+ ------
+Software maintenance refers to the modification of a software product after delivery. 
+
+ ------
+Software engineers shall be fair to and supportive of their colleagues. 
+
+ ------
+A maintenance task done on a software system to address problems of deteriorating structure is known as preventive change. 
+
+ ------
+Design errors are classified as corrective change. 
+
+ ------
+Software engineers shall maintain integrity and independence in their professional judgment. 
+
+ ------
+The quality attribute Maintainability is the ease with which maintenance can be carried out. 
+
+ ------
+A major problem of integration testing is localizing errors. 
+
+ ------
+The Y2K problems should be classified as an enhancement of the software. 
+
+ ------
+Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
+
+ ------
+In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
+
+ ------
+Software engineers shall act consistently with the public interest. 
+
+ ------
+Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful. 
+
+ ------
+Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
+
+ ------
+During software testing, errors can hide other errors. 
+
+ ------
+Acceptance testing is conducted by the developers. 
+
+ ------
+White-box testing is functional testing. 
+
+ ------
+Black-box testing focuses on the path coverage. 
+
+ ------
+Real-time systems with complex non-functional constraints, more than half system development budget may be spent on V & V. 
+
+ ------
+Traceability of test cases are connections between test cases and system requirements. 
+
+ ------
+Software maintenance refers to the process of continuous change of the software throughout the software life cycle. 
+
+ ------
+An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
+
+ ------
+Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
+
+ ------
+Code of ethics, if carefully written and properly promoted, can be powerful instruments in the drive for professionalism and in establishing safeguards for society. 
+
+ ------
+Software engineers shall ensure that their products and related modifications meet the highest professional standards possible. 
+
+ ------
+"Structural changes to improve the maintainability" is classified as an adaptive maintenance task. 
+
+ ------
+In bottom-up integration testing, you don't need drivers. 
+
+ ------
+Requirement analysis document is required in order to perform system testing. 
+
+ ------
+Software testing is a static technique of V & V by inspecting the source code. 
+
+ ------
+The maintenance tasks performed due to hardware or software innovations is classified as adaptive change. 
+
+ ------
+You should always use an incremental approach to system integration and testing. 
+
+ ------
+White-box testing focuses on I/O behaviors. 
+
+ ------
+Software engineers should not misrepresent their level of competence. They should not knowingly accept work which is beyond their competence. 
 
  ------
 Software testing involves running an implementation of the software with test data. 
@@ -221,9 +341,6 @@ Software engineers shall act in a manner that is in the best interests of their 
 White-box testing requires test oracle. 
 
  ------
-An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
-
- ------
 Unless additional work is done to explicitly reduce the complexity of a system, the system will become increasingly ore complex due to maintenance-related changes. 
 
  ------
@@ -236,19 +353,7 @@ One of the advantages of having a separate maintainers is there will be better d
 In bottom-up integration testing, you don't need stubs. 
 
  ------
-Requirement analysis document is required in order to perform system testing. 
-
- ------
 Ideally, regression testing should re-run all test cases, but it's impractical because of the cost. 
-
- ------
-Software engineers shall act consistently with the public interest. 
-
- ------
-In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
-
- ------
-Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
 
  ------
 You can only use a dynamic approach to test a system when a prototype or an executable version of the program is available. 
@@ -260,21 +365,9 @@ Debugging is a process to establish the existence of defects in a software syste
 White-box testing is structural testing. 
 
  ------
-Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
-
- ------
 Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
 
  ------
-Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
-
- ------
 Verification and Validation starts with requirement reviews and continues through design reviews and code inspections to product testing. 
-
- ------
-The quality attribute Maintainability is the ease with which maintenance can be carried out. 
-
- ------
-In bottom-up integration testing, you don't need drivers. 
 
  ------

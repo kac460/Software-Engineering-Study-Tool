@@ -1,0 +1,225 @@
+
+Skip To Content
+Dashboard
+KEVIN CADAVILLO
+Account
+Dashboard
+Courses
+Groups
+Calendar
+25 unread messages.25
+Inbox
+Search
+Help
+
+01:198:431:01 SOFTWARE ENGINEERINGQuizzesOnline Quiz #3 - open Dec. 5History
+Fall 2019
+Home
+Announcements
+Assignments
+Discussions
+Grades
+People
+Pages
+Files
+Syllabus
+Quizzes
+Modules
+Conferences
+Collaborations
+Chat
+Proctortrack
+Google Drive
+Rutgers Libraries
+Search
+Student Instructional Rating Survey
+Media Gallery
+My Media
+Online Quiz #3 - open Dec. 5 Results for KEVIN CADAVILLO
+Score for this attempt: 9.6 out of 10
+Submitted Dec 11 at 1:59pm
+This attempt took 15 minutes.
+ 
+Question 1
+0.4 / 0.4 pts
+Black-box testing focuses on the path coverage.
+
+  True 
+  `False 
+ 
+Question 2
+0.4 / 0.4 pts
+Real-time systems with complex non-functional constraints, more than half system development budget may be spent on V & V.
+
+  `True 
+  False 
+ 
+Question 3
+0.4 / 0.4 pts
+Traceability of test cases are connections between test cases and system requirements.
+
+  `True 
+  False 
+ 
+Question 4
+0.4 / 0.4 pts
+The Y2K problems should be classified as an enhancement of the software.
+
+  True 
+  `False 
+ 
+Question 5
+0.4 / 0.4 pts
+Software maintenance refers to the modification of a software product after delivery.
+
+  `True 
+  False 
+ 
+Question 6
+0.4 / 0.4 pts
+Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful.
+
+  `True 
+  False 
+ 
+Question 7
+0.4 / 0.4 pts
+Software maintenance refers to the process of continuous change of the software throughout the software life cycle.
+
+  True 
+  `False 
+ 
+Question 8
+0.4 / 0.4 pts
+An advantage of incremental development is that a testable version of the system is available at a fairly early stage.
+
+  `True 
+  False 
+ 
+Question 9
+0.4 / 0.4 pts
+Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations.
+
+  `True 
+  False 
+ 
+Question 10
+0.4 / 0.4 pts
+Acceptance testing is conducted by the developers.
+
+  True 
+  `False 
+ 
+Question 11
+0.4 / 0.4 pts
+One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs.
+
+  `True 
+  False 
+ 
+Question 12
+0.4 / 0.4 pts
+Code of ethics, if carefully written and properly promoted, can be powerful instruments in the drive for professionalism and in establishing safeguards for society.
+
+  `True 
+  False 
+ 
+Question 13
+0.4 / 0.4 pts
+Software engineers shall ensure that their products and related modifications meet the highest professional standards possible.
+
+  `True 
+  False 
+ 
+Question 14
+0.4 / 0.4 pts
+"Structural changes to improve the maintainability" is classified as an adaptive maintenance task.
+
+  True 
+  `False 
+ 
+Question 15
+0.4 / 0.4 pts
+In bottom-up integration testing, you don't need drivers.
+
+  True 
+  `False 
+ 
+Question 16
+0.4 / 0.4 pts
+Requirement analysis document is required in order to perform system testing.
+
+  `True 
+  False 
+ 
+Question 17
+0.4 / 0.4 pts
+Software testing is a static technique of V & V by inspecting the source code.
+
+  True 
+  `False 
+ 
+Question 18
+0.4 / 0.4 pts
+The maintenance tasks performed due to hardware or software innovations is classified as adaptive change.
+
+  `True 
+  False 
+ 
+Question 19
+0.4 / 0.4 pts
+In integration testing, a driver is the additional code written to simulate the component being called by the component being tested.
+
+  True 
+  `False 
+ 
+IncorrectQuestion 20
+0 / 0.4 pts
+You should always use an incremental approach to system integration and testing.
+
+  True 
+  `False 
+ 
+Question 21
+0.4 / 0.4 pts
+White-box testing focuses on I/O behaviors.
+
+  True 
+  `False 
+ 
+Question 22
+0.4 / 0.4 pts
+Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation.
+
+  True 
+  `False 
+ 
+Question 23
+0.4 / 0.4 pts
+"Keeping the software current with the operating systems" is a corrective maintenance task.
+
+  True 
+  `False 
+ 
+Question 24
+0.4 / 0.4 pts
+Software engineers shall maintain integrity and independence in their professional judgment.
+
+  `True 
+  False 
+ 
+Question 25
+0.4 / 0.4 pts
+Software engineers should not misrepresent their level of competence. They should not knowingly accept work which is beyond their competence.
+
+  `True 
+  False 
+Quiz Score: 9.6 out of 10
+Quiz Submissions
+Attempt 1: 9.6
+Attempt 2: 9.6
+Attempt 3: 10
+KEVIN CADAVILLO has no attempts left
+ Back to Quiz
+Search
+Search...

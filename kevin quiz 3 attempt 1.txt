@@ -1,0 +1,225 @@
+
+Skip To Content
+Dashboard
+KEVIN CADAVILLO
+Account
+Dashboard
+Courses
+Groups
+Calendar
+25 unread messages.25
+Inbox
+Search
+Help
+
+01:198:431:01 SOFTWARE ENGINEERINGQuizzesOnline Quiz #3 - open Dec. 5History
+Fall 2019
+Home
+Announcements
+Assignments
+Discussions
+Grades
+People
+Pages
+Files
+Syllabus
+Quizzes
+Modules
+Conferences
+Collaborations
+Chat
+Proctortrack
+Google Drive
+Rutgers Libraries
+Search
+Student Instructional Rating Survey
+Media Gallery
+My Media
+Online Quiz #3 - open Dec. 5 Results for KEVIN CADAVILLO
+Score for this attempt: 9.6 out of 10
+Submitted Dec 11 at 1:24am
+This attempt took 15 minutes.
+ 
+Question 1
+0.4 / 0.4 pts
+In both bottom-up and top-down integration testing, you usually have to develop additional code.
+
+  `True 
+  False 
+ 
+Question 2
+0.4 / 0.4 pts
+Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation.
+
+  True 
+  `False 
+ 
+Question 3
+0.4 / 0.4 pts
+Regression testing is used to check that the changes made to a program have not introduced new faults.
+
+  `True 
+  False 
+ 
+IncorrectQuestion 4
+0 / 0.4 pts
+In black-box testing, only the requirement specification is required.
+
+  `True 
+  False 
+ 
+Question 5
+0.4 / 0.4 pts
+"Keeping the software current with the operating systems" is a corrective maintenance task.
+
+  True 
+  `False 
+ 
+Question 6
+0.4 / 0.4 pts
+Software engineers should be aware of local laws governing  the use of intellectual property.
+
+  `True 
+  False 
+ 
+Question 7
+0.4 / 0.4 pts
+In top-down integration testing, you don't need drivers.
+
+  `True 
+  False 
+ 
+Question 8
+0.4 / 0.4 pts
+Ethical behavior is more than simply upholding the law.
+
+  `True 
+  False 
+ 
+Question 9
+0.4 / 0.4 pts
+One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs.
+
+  `True 
+  False 
+ 
+Question 10
+0.4 / 0.4 pts
+Software maintenance refers to the modification of a software product after delivery.
+
+  `True 
+  False 
+ 
+Question 11
+0.4 / 0.4 pts
+Software engineers shall be fair to and supportive of their colleagues.
+
+  `True 
+  False 
+ 
+Question 12
+0.4 / 0.4 pts
+A maintenance task done on a software system to address problems of deteriorating structure is known as preventive change.
+
+  `True 
+  False 
+ 
+Question 13
+0.4 / 0.4 pts
+Design errors are classified as corrective change.
+
+  `True 
+  False 
+ 
+Question 14
+0.4 / 0.4 pts
+Software engineers shall maintain integrity and independence in their professional judgment.
+
+  `True 
+  False 
+ 
+Question 15
+0.4 / 0.4 pts
+The quality attribute Maintainability is the ease with which maintenance can be carried out.
+
+  `True 
+  False 
+ 
+Question 16
+0.4 / 0.4 pts
+A major problem of integration testing is localizing errors.
+
+  `True 
+  False 
+ 
+Question 17
+0.4 / 0.4 pts
+The Y2K problems should be classified as an enhancement of the software.
+
+  True 
+  `False 
+ 
+Question 18
+0.4 / 0.4 pts
+Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code.
+
+  `True 
+  False 
+ 
+Question 19
+0.4 / 0.4 pts
+In integration testing, a driver is the additional code written to simulate the component being called by the component being tested.
+
+  True 
+  `False 
+ 
+Question 20
+0.4 / 0.4 pts
+Software engineers shall act consistently with the public interest.
+
+  `True 
+  False 
+ 
+Question 21
+0.4 / 0.4 pts
+Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful.
+
+  `True 
+  False 
+ 
+Question 22
+0.4 / 0.4 pts
+Black-box testing is simply concerned with demonstrating that the system does or does not work properly.
+
+  `True 
+  False 
+ 
+Question 23
+0.4 / 0.4 pts
+During software testing, errors can hide other errors.
+
+  `True 
+  False 
+ 
+Question 24
+0.4 / 0.4 pts
+Acceptance testing is conducted by the developers.
+
+  True 
+  `False 
+ 
+Question 25
+0.4 / 0.4 pts
+White-box testing is functional testing.
+
+  True 
+  `False 
+Quiz Score: 9.6 out of 10
+Quiz Submissions
+Attempt 1: 9.6
+Attempt 2: 9.6
+Attempt 3: 10
+KEVIN CADAVILLO has no attempts left
+ Back to Quiz
+Search
+Search...
