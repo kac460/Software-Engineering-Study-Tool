@@ -1,0 +1,25 @@
+
+1)  The T in the SMART is the abbreviation for Transformable, an attribute for evaluating requirement statements. 
+FALSE 
+
+------
+2)  In client/server architecture, the cost for a fat client is higher. 
+TRUE 
+
+------
+3)  Ethical behavior is more than simply upholding the law. 
+TRUE 
+
+------
+1)  In client/server architecture, the cost for a fat client is higher. 
+TRUE 
+
+------
+2)  Ethical behavior is more than simply upholding the law. 
+TRUE 
+
+------
+1)  Ethical behavior is more than simply upholding the law. 
+TRUE 
+
+------

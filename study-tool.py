@@ -20,7 +20,8 @@ question_answer_map = {}  # maps question (string) to corresponding answer (stri
 for file in glob.glob("*.txt"):
     txt_files.append(file)
 for text_file in txt_files:
-    if text_file == "answer key.txt" or text_file == "questions without answers.txt":
+    if text_file == "answer key.txt" or text_file == "questions without answers.txt" \
+            or text_file == "incorrect questions.txt" or text_file == "incorrect questions answer key.txt":
         continue
     f = open(text_file)
     s = f.read()
@@ -80,21 +81,63 @@ shuffle = input()
 questions = list(question_answer_map.keys())
 if shuffle == "Y":
     random.shuffle(questions)
+incorrect_question_answer_map = {}
+correct_output = "Correct. Statement is {}"
+incorrect_output = "WRONG! STATEMENT IS {}"
 for question in questions:
     print(question + "\n T/F? (enter EXIT to stop)")
     input_answer = input()
     if input_answer == "EXIT":
         break
     actual_answer = question_answer_map[question]
-    correct_output = "Correct. Statement is {}"
-    incorrect_output = "WRONG! STATEMENT IS {}"
     if 'T' in input_answer or 't' in input_answer:
         if actual_answer == true_string_for_output:
             print(correct_output.format(true_string_for_output))
         else:
             print(incorrect_output.format(false_string_for_output))
+            incorrect_question_answer_map[question] = actual_answer
     else:
         if actual_answer == false_string_for_output:
             print(correct_output.format(false_string_for_output))
         else:
             print(incorrect_output.format(true_string_for_output))
+            incorrect_question_answer_map[question] = actual_answer
+answer_key_file = open("incorrect questions answer key.txt", 'w')
+questions_without_answers_file = open("incorrect questions.txt", 'w')
+while len(incorrect_question_answer_map) > 0:
+    questions_without_answers = ""
+    questions_with_answers = ""
+    num = 1
+    for incorrect_question in incorrect_question_answer_map:
+        questions_with_answers += "\n{})  {} \n{} \n\n------"\
+            .format(num, incorrect_question, incorrect_question_answer_map[incorrect_question])
+        questions_without_answers += "\n{})  {} \n\n ------".format(num, incorrect_question)
+        num += 1
+    answer_key_file.write(questions_with_answers)
+    questions_without_answers_file.write(questions_without_answers)
+    old_incorrect_question_answer_map = incorrect_question_answer_map
+    incorrect_question_answer_map = {}
+    print("Shuffle the incorrect questions? Y/N")
+    shuffle = input()
+    questions = list(old_incorrect_question_answer_map.keys())
+    if shuffle == "Y":
+        random.shuffle(questions)
+    incorrect_question_answer_map = {}
+    for question in questions:
+        print(question + "\n T/F? (enter EXIT to stop)")
+        input_answer = input()
+        if input_answer == "EXIT":
+            break
+        actual_answer = old_incorrect_question_answer_map[question]
+        if 'T' in input_answer or 't' in input_answer:
+            if actual_answer == true_string_for_output:
+                print(correct_output.format(true_string_for_output))
+            else:
+                print(incorrect_output.format(false_string_for_output))
+                incorrect_question_answer_map[question] = actual_answer
+        else:
+            if actual_answer == false_string_for_output:
+                print(correct_output.format(false_string_for_output))
+            else:
+                print(incorrect_output.format(true_string_for_output))
+                incorrect_question_answer_map[question] = actual_answer
