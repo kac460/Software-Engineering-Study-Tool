@@ -1,4 +1,5 @@
 import glob
+import random
 
 true_string_for_output = "TRUE"
 false_string_for_output = "FALSE"
@@ -14,7 +15,6 @@ def first_is_false_or_true(seg):
 
 
 txt_files = []
-question_start_marker = 'textarea_question_text">&lt;p&gt;'
 question_answer_map = {}  # maps question (string) to corresponding answer (string)
 
 for file in glob.glob("*.txt"):
@@ -75,20 +75,26 @@ for q in question_answer_map:
     num += 1
 answer_key_file.write(questions_with_answers)
 questions_without_answers_file.write(questions_without_answers)
-
-for question in question_answer_map:
-    print(question + "\n True/False? (enter EXIT to stop)")
+print("Shuffle the questions? Y/N")
+shuffle = input()
+questions = list(question_answer_map.keys())
+if shuffle == "Y":
+    random.shuffle(questions)
+for question in questions:
+    print(question + "\n T/F? (enter EXIT to stop)")
     input_answer = input()
     if input_answer == "EXIT":
         break
     actual_answer = question_answer_map[question]
+    correct_output = "Correct. Statement is {}"
+    incorrect_output = "WRONG! STATEMENT IS {}"
     if 'T' in input_answer or 't' in input_answer:
         if actual_answer == true_string_for_output:
-            print("Correct. Statement is {}".format(true_string_for_output))
+            print(correct_output.format(true_string_for_output))
         else:
-            print("WRONG! STATEMENT IS {}".format(false_string_for_output))
+            print(incorrect_output.format(false_string_for_output))
     else:
         if actual_answer == false_string_for_output:
-            print("Correct. STATEMENT is {}".format(false_string_for_output))
+            print(correct_output.format(false_string_for_output))
         else:
-            print("WRONG! STATEMENT IS {}".format(true_string_for_output))
+            print(incorrect_output.format(true_string_for_output))

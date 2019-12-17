@@ -128,246 +128,336 @@
 43)  UML is a diagram to show the architectural design of the software. 
 
  ------
-44)  One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders. 
+44)  "has", "is composed of" in part of speech identifies the generalization model component in a class diagram. 
 
  ------
-45)  Client/Server architecture can potentially save hardware cost. 
+45)  The repository architecture is a system model where the system is organized as a set of services. 
 
  ------
-46)  "has", "is composed of" in part of speech identifies the generalization model component in a class diagram. 
+46)  In client/server architecture, the cost for a fat client is higher. 
 
  ------
-47)  The manageability of a distributed system architecture is better than a centralized system architecture. 
+47)  UI design is concerned with the Maintainability. 
 
  ------
-48)  If performance is a critical requirement, the architecture should be designed to have fine-grain components, and the subsystems should constantly communicate with each other. 
+48)  Use case diagram is normally used at both the analysis and design phase. 
 
  ------
-49)  The last step of UI design process is interface evaluation. 
+49)  The notation for generalization in a class diagram is a large empty arrow pointing from the superclass to the subclass. 
 
  ------
-50)  Fault-tolerant system architecture should be used if maintainability is a critical requirement. 
+50)  In OO design, boundary objects are system interfaces that interact with the actors. 
 
  ------
-51)  ATM (Auto Teller Machine) is a client/server architecture. 
+51)  One of the three advantages of explicitly designing and documenting a software architecture is it can be used to conduct system analysis. 
 
  ------
-52)  The repository architecture is a system model where the system is organized as a set of services. 
+52)  One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders. 
 
  ------
-53)  Cohesion measures dependency among subsystems. 
+53)  In OO design, entity objects are persistent information tracked by the system. 
 
  ------
-54)  Use case diagram is normally used at both the analysis and design phase. 
+54)  In a two-tiered client/server model, the client handles the data storage and data access logic. 
 
  ------
-55)  Localizing safety-related features improves performance. 
+55)  In client/server architecture, a thin client promotes the performance. 
 
  ------
-56)  The notation for generalization in a class diagram is a large empty arrow pointing from the superclass to the subclass. 
+56)  In UI design, menu selection will become complex if there are too many options. 
 
  ------
-57)  Object communication is through message passing. 
+57)  Localizing safety-related features improves performance. 
 
  ------
-58)  The layered pattern supports the incremental development of systems. 
+58)  "is a", "is kind of" in part of speech identifies the generalization model component in a class diagram. 
 
  ------
-59)  "has", "is composed of" in part of speech identifies the aggregation model component in a class diagram. 
+59)  The manageability of a distributed system architecture is better than a centralized system architecture. 
 
  ------
-60)  MVC pattern supports presentation of the same data in different ways. 
+60)  UI designers should be aware of people’s physical and mental limitations and should recognize that people make mistakes. 
 
  ------
-61)  The product of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. 
+61)  Use case diagram is normally used to show the functionality of the system. 
 
  ------
-62)  "is a", "is kind of" in part of speech identifies the aggregation model component in a class diagram. 
+62)  Client/Server architecture can potentially save hardware cost. 
 
  ------
-63)  Architectural design is the critical link between design and requirements engineering. 
+63)  A poorly designed interface can cause a user to make catastrophic errors. 
 
  ------
-64)  Client/server architecture supports resource sharing. 
+64)  "has", "is composed of" in part of speech identifies the aggregation model component in a class diagram. 
 
  ------
-65)  There is no overlap between the processes of requirement engineering and architectural design. 
+65)  In UI design, the advantage of using menu selection is preventing user errors. 
 
  ------
-66)  Introducing redundant data improves availability but makes security more difficult. 
+66)  The notation for aggregation in a class diagram is an empty diamond on the side of the aggregate. 
 
  ------
-67)  In OO design, control objects coordinate boundary objects and entity objects. 
+67)  If security is a critical requirement, a layered structure for the architecture should be used. 
 
  ------
 68)  Sequence diagram represents the interactions among a set of objects during a single use case. 
 
  ------
-69)  In both bottom-up and top-down integration testing, you usually have to develop additional code. 
+69)  A system specification should not include any architectural design information. 
 
  ------
-70)  Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation. 
+70)  Desired properties of good OO design is high coupling and low cohesion. 
 
  ------
-71)  Regression testing is used to check that the changes made to a program have not introduced new faults. 
+71)  Architectural design must always be created after the software specification is finalized. 
 
  ------
-72)  In black-box testing, only the requirement specification is required. 
+72)  Architectural design identifies the main structural components in a system and the relationships between them. 
 
  ------
-73)  "Keeping the software current with the operating systems" is a corrective maintenance task. 
+73)  A static structural model shows how, at run-time, the system is composed of interacting processes. 
 
  ------
-74)  Software engineers should be aware of local laws governing  the use of intellectual property. 
+74)  If safety is a critical requirement, the architecture should be designed so that safety-related operations are distributed in every subsystems. 
 
  ------
-75)  In top-down integration testing, you don't need drivers. 
+75)  In the repository pattern, data evolution is difficult and expensive. 
 
  ------
-76)  Ethical behavior is more than simply upholding the law. 
+76)  Fault-tolerant system architecture should be used if maintainability is a critical requirement. 
 
  ------
-77)  One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs. 
+77)  Object-Oriented Analysis produces the object models of the solution domain. 
 
  ------
-78)  Software maintenance refers to the modification of a software product after delivery. 
+78)  MVC pattern supports presentation of the same data in different ways. 
 
  ------
-79)  Software engineers shall be fair to and supportive of their colleagues. 
+79)  Low coupling means change in one subsystem has low impact on any other subsystems. 
 
  ------
-80)  A maintenance task done on a software system to address problems of deteriorating structure is known as preventive change. 
+80)  The layered pattern supports the incremental development of systems. 
 
  ------
-81)  Design errors are classified as corrective change. 
+81)  Client/server architecture supports resource sharing. 
 
  ------
-82)  Software engineers shall maintain integrity and independence in their professional judgment. 
+82)  The repository architectural style supports the incremental development of systems. 
 
  ------
-83)  The quality attribute Maintainability is the ease with which maintenance can be carried out. 
+83)  In client/server architecture, sharing data is very efficient. 
 
  ------
-84)  A major problem of integration testing is localizing errors. 
+84)  The notation for composition in a class diagram is an empty diamond. 
 
  ------
-85)  The Y2K problems should be classified as an enhancement of the software. 
+85)  Architectural design is concerned with understanding how a software system should be organized and designing the overall structure of that system. 
 
  ------
-86)  Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
+86)  Class diagram shows the subsystem decomposition. 
 
  ------
-87)  In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
+87)  Architectural Design focuses on the implementation of the system. 
 
  ------
-88)  Software engineers shall act consistently with the public interest. 
+88)  Architectural design is the critical link between design and requirements engineering. 
 
  ------
-89)  Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful. 
+89)  If performance is a critical requirement, the architecture should be designed to have fine-grain components, and the subsystems should constantly communicate with each other. 
 
  ------
-90)  Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
+90)  The last step of UI design process is interface evaluation. 
 
  ------
-91)  During software testing, errors can hide other errors. 
+91)  ATM (Auto Teller Machine) is a client/server architecture. 
 
  ------
-92)  Acceptance testing is conducted by the developers. 
+92)  Cohesion measures dependency among subsystems. 
 
  ------
-93)  White-box testing is functional testing. 
+93)  Object communication is through message passing. 
 
  ------
-94)  Black-box testing focuses on the path coverage. 
+94)  The product of the architectural design process is an architectural model that describes how the system is organized as a set of communicating components. 
 
  ------
-95)  Real-time systems with complex non-functional constraints, more than half system development budget may be spent on V & V. 
+95)  "is a", "is kind of" in part of speech identifies the aggregation model component in a class diagram. 
 
  ------
-96)  Traceability of test cases are connections between test cases and system requirements. 
+96)  There is no overlap between the processes of requirement engineering and architectural design. 
 
  ------
-97)  Software maintenance refers to the process of continuous change of the software throughout the software life cycle. 
+97)  Introducing redundant data improves availability but makes security more difficult. 
 
  ------
-98)  An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
+98)  In OO design, control objects coordinate boundary objects and entity objects. 
 
  ------
-99)  Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
+99)  In both bottom-up and top-down integration testing, you usually have to develop additional code. 
 
  ------
-100)  Code of ethics, if carefully written and properly promoted, can be powerful instruments in the drive for professionalism and in establishing safeguards for society. 
+100)  Corrective maintenance is due to the fact that not all user requirements can be anticipated during design and implementation. 
 
  ------
-101)  Software engineers shall ensure that their products and related modifications meet the highest professional standards possible. 
+101)  Regression testing is used to check that the changes made to a program have not introduced new faults. 
 
  ------
-102)  "Structural changes to improve the maintainability" is classified as an adaptive maintenance task. 
+102)  In black-box testing, only the requirement specification is required. 
 
  ------
-103)  In bottom-up integration testing, you don't need drivers. 
+103)  "Keeping the software current with the operating systems" is a corrective maintenance task. 
 
  ------
-104)  Requirement analysis document is required in order to perform system testing. 
+104)  Software engineers should be aware of local laws governing  the use of intellectual property. 
 
  ------
-105)  Software testing is a static technique of V & V by inspecting the source code. 
+105)  In top-down integration testing, you don't need drivers. 
 
  ------
-106)  The maintenance tasks performed due to hardware or software innovations is classified as adaptive change. 
+106)  Ethical behavior is more than simply upholding the law. 
 
  ------
-107)  You should always use an incremental approach to system integration and testing. 
+107)  One of the advantages of software inspection over software testing is: incomplete versions of the system can be inspected without additional costs. 
 
  ------
-108)  White-box testing focuses on I/O behaviors. 
+108)  Software maintenance refers to the modification of a software product after delivery. 
 
  ------
-109)  Software engineers should not misrepresent their level of competence. They should not knowingly accept work which is beyond their competence. 
+109)  Software engineers shall be fair to and supportive of their colleagues. 
 
  ------
-110)  Software testing involves running an implementation of the software with test data. 
+110)  A maintenance task done on a software system to address problems of deteriorating structure is known as preventive change. 
 
  ------
-111)  One of the disadvantages of having the developers maintaining the software is the new system development often gets a higher priority than maintenance. 
+111)  Design errors are classified as corrective change. 
 
  ------
-112)  Rerunning an existing set of tests is called regression testing. 
+112)  Software engineers shall maintain integrity and independence in their professional judgment. 
 
  ------
-113)  Software engineers shall act in a manner that is in the best interests of their client and employer, consistent with the public interest. 
+113)  The quality attribute Maintainability is the ease with which maintenance can be carried out. 
 
  ------
-114)  White-box testing requires test oracle. 
+114)  A major problem of integration testing is localizing errors. 
 
  ------
-115)  Unless additional work is done to explicitly reduce the complexity of a system, the system will become increasingly ore complex due to maintenance-related changes. 
+115)  The Y2K problems should be classified as an enhancement of the software. 
 
  ------
-116)  We need to rerun all tests after each defect repair. 
+116)  Software inspections or peer reviews analyze and check system representations such as requirements document, design diagrams and the source code. 
 
  ------
-117)  One of the advantages of having a separate maintainers is there will be better documentations. 
+117)  In integration testing, a driver is the additional code written to simulate the component being called by the component being tested. 
 
  ------
-118)  In bottom-up integration testing, you don't need stubs. 
+118)  Software engineers shall act consistently with the public interest. 
 
  ------
-119)  Ideally, regression testing should re-run all test cases, but it's impractical because of the cost. 
+119)  Unless a system is continually modified to satisfy emerging needs of users, the system becomes increasingly less useful. 
 
  ------
-120)  You can only use a dynamic approach to test a system when a prototype or an executable version of the program is available. 
+120)  Black-box testing is simply concerned with demonstrating that the system does or does not work properly. 
 
  ------
-121)  Debugging is a process to establish the existence of defects in a software system. 
+121)  During software testing, errors can hide other errors. 
 
  ------
-122)  White-box testing is structural testing. 
+122)  Acceptance testing is conducted by the developers. 
 
  ------
-123)  Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
+123)  White-box testing is functional testing. 
 
  ------
-124)  Verification and Validation starts with requirement reviews and continues through design reviews and code inspections to product testing. 
+124)  Black-box testing focuses on the path coverage. 
+
+ ------
+125)  Real-time systems with complex non-functional constraints, more than half system development budget may be spent on V & V. 
+
+ ------
+126)  Traceability of test cases are connections between test cases and system requirements. 
+
+ ------
+127)  Software maintenance refers to the process of continuous change of the software throughout the software life cycle. 
+
+ ------
+128)  An advantage of incremental development is that a testable version of the system is available at a fairly early stage. 
+
+ ------
+129)  Static source code analyzers can detect uninitialized variables, but they cannot detect incorrect initializations. 
+
+ ------
+130)  Code of ethics, if carefully written and properly promoted, can be powerful instruments in the drive for professionalism and in establishing safeguards for society. 
+
+ ------
+131)  Software engineers shall ensure that their products and related modifications meet the highest professional standards possible. 
+
+ ------
+132)  "Structural changes to improve the maintainability" is classified as an adaptive maintenance task. 
+
+ ------
+133)  In bottom-up integration testing, you don't need drivers. 
+
+ ------
+134)  Requirement analysis document is required in order to perform system testing. 
+
+ ------
+135)  Software testing is a static technique of V & V by inspecting the source code. 
+
+ ------
+136)  The maintenance tasks performed due to hardware or software innovations is classified as adaptive change. 
+
+ ------
+137)  You should always use an incremental approach to system integration and testing. 
+
+ ------
+138)  White-box testing focuses on I/O behaviors. 
+
+ ------
+139)  Software engineers should not misrepresent their level of competence. They should not knowingly accept work which is beyond their competence. 
+
+ ------
+140)  Software testing involves running an implementation of the software with test data. 
+
+ ------
+141)  One of the disadvantages of having the developers maintaining the software is the new system development often gets a higher priority than maintenance. 
+
+ ------
+142)  Rerunning an existing set of tests is called regression testing. 
+
+ ------
+143)  Software engineers shall act in a manner that is in the best interests of their client and employer, consistent with the public interest. 
+
+ ------
+144)  White-box testing requires test oracle. 
+
+ ------
+145)  Unless additional work is done to explicitly reduce the complexity of a system, the system will become increasingly ore complex due to maintenance-related changes. 
+
+ ------
+146)  We need to rerun all tests after each defect repair. 
+
+ ------
+147)  One of the advantages of having a separate maintainers is there will be better documentations. 
+
+ ------
+148)  In bottom-up integration testing, you don't need stubs. 
+
+ ------
+149)  Ideally, regression testing should re-run all test cases, but it's impractical because of the cost. 
+
+ ------
+150)  You can only use a dynamic approach to test a system when a prototype or an executable version of the program is available. 
+
+ ------
+151)  Debugging is a process to establish the existence of defects in a software system. 
+
+ ------
+152)  White-box testing is structural testing. 
+
+ ------
+153)  Software engineers shall participate in lifelong learning regarding the practice of their profession and shall promote an ethical approach to the practice of the profession. 
+
+ ------
+154)  Verification and Validation starts with requirement reviews and continues through design reviews and code inspections to product testing. 
 
  ------
