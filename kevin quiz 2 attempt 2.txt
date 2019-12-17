@@ -1,0 +1,252 @@
+
+Skip To Content
+Dashboard
+KEVIN CADAVILLO
+Account
+Dashboard
+Courses
+Groups
+Calendar
+25 unread messages.25
+Inbox
+Search
+Help
+
+01:198:431:01 SOFTWARE ENGINEERINGQuizzesOnline Quiz #2 - open Nov. 11History
+Fall 2019
+Home
+Announcements
+Assignments
+Discussions
+Grades
+People
+Pages
+Files
+Syllabus
+Quizzes
+Modules
+Conferences
+Collaborations
+Chat
+Proctortrack
+Google Drive
+Rutgers Libraries
+Search
+Student Instructional Rating Survey
+Media Gallery
+My Media
+Online Quiz #2 - open Nov. 11 Results for KEVIN CADAVILLO
+Score for this attempt: 8.4 out of 10
+Submitted Nov 17 at 11:26pm
+This attempt took 17 minutes.
+ 
+Question 1
+0 / 0.4 pts
+A system specification should not include any architectural design information.
+
+You Answered
+  True 
+Correct Answer
+  False 
+ 
+Question 2
+0.4 / 0.4 pts
+Desired properties of good OO design is high coupling and low cohesion.
+
+  True 
+Correct!
+  False 
+ 
+Question 3
+0.4 / 0.4 pts
+In OO design, entity objects are persistent information tracked by the system.
+
+Correct!
+  True 
+  False 
+ 
+Question 4
+0 / 0.4 pts
+Architectural design must always be created after the software specification is finalized.
+
+You Answered
+  True 
+Correct Answer
+  False 
+ 
+Question 5
+0.4 / 0.4 pts
+Architectural design identifies the main structural components in a system and the relationships between them.
+
+Correct!
+  True 
+  False 
+ 
+Question 6
+0.4 / 0.4 pts
+One of the three advantages of explicitly designing and documenting a software architecture is it can be used as a focus for discussion by a range of different stakeholders.
+
+Correct!
+  True 
+  False 
+ 
+Question 7
+0.4 / 0.4 pts
+A static structural model shows how, at run-time, the system is composed of interacting processes.
+
+  True 
+Correct!
+  False 
+ 
+Question 8
+0.4 / 0.4 pts
+If safety is a critical requirement, the architecture should be designed so that safety-related operations are distributed in every subsystems.
+
+  True 
+Correct!
+  False 
+ 
+Question 9
+0.4 / 0.4 pts
+In the repository pattern, data evolution is difficult and expensive.
+
+Correct!
+  True 
+  False 
+ 
+Question 10
+0.4 / 0.4 pts
+In OO design, boundary objects are system interfaces that interact with the actors.
+
+Correct!
+  True 
+  False 
+ 
+Question 11
+0.4 / 0.4 pts
+In UI design, menu selection will become complex if there are too many options.
+
+Correct!
+  True 
+  False 
+ 
+Question 12
+0.4 / 0.4 pts
+Fault-tolerant system architecture should be used if maintainability is a critical requirement.
+
+  True 
+Correct!
+  False 
+ 
+Question 13
+0.4 / 0.4 pts
+Object-Oriented Analysis produces the object models of the solution domain.
+
+  True 
+Correct!
+  False 
+ 
+Question 14
+0.4 / 0.4 pts
+MVC pattern supports presentation of the same data in different ways.
+
+Correct!
+  True 
+  False 
+ 
+Question 15
+0.4 / 0.4 pts
+In client/server architecture, a thin client promotes the performance.
+
+Correct!
+  True 
+  False 
+ 
+Question 16
+0.4 / 0.4 pts
+Low coupling means change in one subsystem has low impact on any other subsystems.
+
+Correct!
+  True 
+  False 
+ 
+Question 17
+0.4 / 0.4 pts
+The layered pattern supports the incremental development of systems.
+
+Correct!
+  True 
+  False 
+ 
+Question 18
+0 / 0.4 pts
+Client/server architecture supports resource sharing.
+
+Correct Answer
+  True 
+You Answered
+  False 
+ 
+Question 19
+0.4 / 0.4 pts
+The repository architectural style supports the incremental development of systems.
+
+  True 
+Correct!
+  False 
+ 
+Question 20
+0.4 / 0.4 pts
+In client/server architecture, sharing data is very efficient.
+
+  True 
+Correct!
+  False 
+ 
+Question 21
+0.4 / 0.4 pts
+The notation for composition in a class diagram is an empty diamond.
+
+  True 
+Correct!
+  False 
+ 
+Question 22
+0.4 / 0.4 pts
+Architectural design is concerned with understanding how a software system should be organized and designing the overall structure of that system.
+
+Correct!
+  True 
+  False 
+ 
+Question 23
+0.4 / 0.4 pts
+Class diagram shows the subsystem decomposition.
+
+  True 
+Correct!
+  False 
+ 
+Question 24
+0 / 0.4 pts
+Architectural Design focuses on the implementation of the system. 
+
+You Answered
+  True 
+Correct Answer
+  False 
+ 
+Question 25
+0.4 / 0.4 pts
+Architectural design is the critical link between design and requirements engineering.
+
+Correct!
+  True 
+  False 
+Quiz Score: 8.4 out of 10
+Quiz Submissions
+Attempt 1: 9.6
+Attempt 2: 8.4
+Attempt 3: 9.2
+KEVIN CADAVILLO has no attempts left
+ Back to Quiz
