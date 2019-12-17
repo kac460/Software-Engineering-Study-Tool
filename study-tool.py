@@ -104,17 +104,17 @@ for question in questions:
             incorrect_question_answer_map[question] = actual_answer
 answer_key_file = open("incorrect questions answer key.txt", 'w')
 questions_without_answers_file = open("incorrect questions.txt", 'w')
+questions_without_answers = ""
+questions_with_answers = ""
+num = 1
+for incorrect_question in incorrect_question_answer_map:
+    questions_with_answers += "\n{})  {} \n{} \n\n------" \
+        .format(num, incorrect_question, incorrect_question_answer_map[incorrect_question])
+    questions_without_answers += "\n{})  {} \n\n ------".format(num, incorrect_question)
+    num += 1
+answer_key_file.write(questions_with_answers)
+questions_without_answers_file.write(questions_without_answers)
 while len(incorrect_question_answer_map) > 0:
-    questions_without_answers = ""
-    questions_with_answers = ""
-    num = 1
-    for incorrect_question in incorrect_question_answer_map:
-        questions_with_answers += "\n{})  {} \n{} \n\n------"\
-            .format(num, incorrect_question, incorrect_question_answer_map[incorrect_question])
-        questions_without_answers += "\n{})  {} \n\n ------".format(num, incorrect_question)
-        num += 1
-    answer_key_file.write(questions_with_answers)
-    questions_without_answers_file.write(questions_without_answers)
     old_incorrect_question_answer_map = incorrect_question_answer_map
     incorrect_question_answer_map = {}
     print("Shuffle the incorrect questions? Y/N")
