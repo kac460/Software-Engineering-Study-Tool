@@ -82,8 +82,8 @@ questions = list(question_answer_map.keys())
 if shuffle == "Y":
     random.shuffle(questions)
 incorrect_question_answer_map = {}
-correct_output = "Correct. Statement is {}"
-incorrect_output = "WRONG! STATEMENT IS {}"
+correct_output = "Correct. Statement is {}\n----\n"
+incorrect_output = "WRONG! STATEMENT IS {}\n----\n"
 for question in questions:
     print(question + "\n T/F? (enter EXIT to stop)")
     input_answer = input()
